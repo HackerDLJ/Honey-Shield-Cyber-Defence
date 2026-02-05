@@ -1,0 +1,7 @@
+{
+  "name": "HoneyShield: Agentic Scam Honeypot",
+  "description": "A production-grade AI honeypot system designed to intercept scams, waste scammer time with realistic AI personas, and extract forensic evidence for legal proceedings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
